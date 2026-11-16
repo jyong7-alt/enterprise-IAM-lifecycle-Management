@@ -1,4 +1,4 @@
-Import-Module Active Directory
+Import-Module ActiveDirectory
 
 $username = "john.tan"
 
